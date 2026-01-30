@@ -1,15 +1,10 @@
 <div align="center">
 
-# 🏆 Rewards Search Automator
+# OK YALL
 
 <img src="https://raw.githubusercontent.com/AsoStrife/Rewards-Search-Automator/47d130ff07c6fe779984987cdcdbe747fd244ac9/img/icon128.png" alt="Rewards Search Automator Logo" width="128">
 
-### Automate your Bing searches to earn Microsoft Rewards points effortlessly!
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/u/3/detail/paohfpjfibchbhbkdnlhjpfblafifehg/preview?hl=it)
-[![Version](https://img.shields.io/badge/version-2.0.0-green?style=for-the-badge)](https://github.com/AsoStrife/Rewards-Search-Automator/releases)
-[![License](https://img.shields.io/badge/license-MIT-orange?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/AsoStrife/Rewards-Search-Automator?style=for-the-badge&logo=github)](https://github.com/AsoStrife/Rewards-Search-Automator/stargazers)
+### Ya already know what this extension does, is just the other guy's extension but with no promo, also pretty sure he vibecoded ts
 
 [🚀 Features](#-features) • [📦 Installation](#-installation) • [🎯 Usage](#-usage) • [⚙️ Configuration](#️-configuration) • [🤝 Support](#-support)
 
