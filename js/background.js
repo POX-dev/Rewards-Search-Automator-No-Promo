@@ -364,8 +364,6 @@ async function handlePhaseComplete() {
 // Complete all searches
 async function completeSearches() {
     searchState.isRunning = false;
-    openAuthorWebsite();
-
     notifyPopup({
         type: 'complete'
     });
